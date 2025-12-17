@@ -1,1 +1,1 @@
-# TicTacToe-Game
+Created a game that emulates the famous TicTacToe game. All credits go to Bro Code, as most if not all code was sourced from their Youtube channel. A maximum of two players can play this game, with the goal being to place three consecutive X's or O's in any sort of vertical, horizontal or diagonal combination.
